@@ -2,7 +2,7 @@ import React from 'react';
 
 const Delta = props => {
     return (<div>
-        <input value={props.delta} onChange={props.handleChange}/>
+        <input/>
     </div>)
 };
 
